@@ -2,9 +2,10 @@ body {
   background-color: #EAF6F6;
 }
 hr {
-  background-color: white;
   border-style: none;
-  height: 2px;
+  border-top-style:inset;
+  background-color: grey;
+  border-width: 1px; 
 }
 p {
   width: 90%
