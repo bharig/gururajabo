@@ -1,0 +1,11 @@
+body {
+  background-color: #abf0e9;
+}
+hr {
+  background-color: white;
+  border-style: none;
+  height: 2px;
+}
+p {
+  width: 90%
+}
